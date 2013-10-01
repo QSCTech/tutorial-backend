@@ -35,9 +35,9 @@ LAMP 指的是 Linux Apache MySQL PHP（原先是Perl，现在也有Python），
  doc ， __不能__ 将这些教程作为工具书使用。
 
 * [W3school](http://www.w3school.com.cn/)
-  有名的网站制作教程， W3Schools.com 的中文版（两者没有直接关系），虽有很多不足但作为入门还是可以借鉴的。
+  有名的网站制作教程， W3Schools.com 的中文版（两者没有直接关系），虽有很多不足但作为入门还是可以借鉴的。另外，即使是后端，也请浏览一下 W3school 中的 HTML/CSS 部分，至少要有一个基本的了解。
 * [Introduction to the Internet and the World Wide Web](http://www.cs.sfu.ca/CourseCentral/165/common/guide/)
-  Greg Baker (@Simon Fraser University) 为一门网页制作入门课撰写的教程，英文，零基础。
+  Greg Baker (@Simon Fraser University) 为一门网页制作入门课撰写的教程，以 HTML 为主，也涉及了动态网页（不过并非使用 PHP ），英文，零基础。
 
 PHP 作者所著的 _Programming PHP_ 也是一本不错的参考书，大部头，详细
 讲述了一些设计意图、历史原因，让你理解为何 PHP 会是现在这个样子，
