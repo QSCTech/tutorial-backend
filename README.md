@@ -29,9 +29,9 @@ LAMP 指的是 Linux Apache MySQL PHP（原先是Perl，现在也有Python），
 
 ## 作者
 
-* [Delostik](https://github.com/Delostik)
-* [Hexcles](https://github.com/Hexcles)
-* [Senorsen](https://github.com/Senorsen)
+* <a href="https://github.com/Delostik" target="_blank">Delostik</a>
+* <a href="https://github.com/Hexcles" target="_blank">Hexcles</a>
+* <a href="https://github.com/Senorsen" target="_blank">Senorsen</a>
 
 ## 授权协议
 
