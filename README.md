@@ -2,7 +2,7 @@
 
 ## 简介
 
-这是供求是潮技术研发中心使用的后端开发入门教程。以 LAMP 平台为主。
+这是供求是潮技术研发中心使用的后端开发入门教程。以 LAMP 为主。
 
 LAMP 指的是 Linux Apache MySQL PHP（原先是Perl，现在也有Python），
 作为后端开发者，最重要的就是 PHP 以及 MySQL 了。尽管 PHP 有许多
@@ -16,14 +16,22 @@ LAMP 指的是 Linux Apache MySQL PHP（原先是Perl，现在也有Python），
 有很多大型网站、项目（例如 WordPress 、 维基百科、 Facebook ）都是
 使用 PHP 开发的。
 
+此外，这里还会简要介绍一些 nginx 服务器的知识。nginx 也是一个比较常用
+的网页服务器，并且在某种程度上比 Apache 更易用、拓展性更强。
+
+最后，这里有一个小建议：后端程序员不能只会后端，最好要对前端也有一定
+的了解，如 Ajax 技术等。否则，与前端合作时会非常困难。同理，前端程序员
+也需要了解一些简单的后端。
+
 虽然叫做“教程”，但这份文档不是一个完整的入门指南，而只是起到一个
 提点、提示的作用，包括了一些常见问题、经验分享，并且提供了一些有用
 的链接以供参考，少走一些弯路。
 
 ## 作者
 
-* Delostik
-* Hexcles
+* [Delostik](https://github.com/Delostik)
+* [Hexcles](https://github.com/Hexcles)
+* [Senorsen](https://github.com/Senorsen)
 
 ## 授权协议
 
