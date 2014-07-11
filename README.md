@@ -14,17 +14,19 @@ LAMP 指的是 Linux Apache MySQL PHP（原先是Perl，现在也有Python），
 
 既名“入门”，本文档只是一份让你对后端知识有个开始的大概了解。本入门的子目录中包括了一些常见问题、经验分享，并且提供了一些有用的链接以供参考，希望能以此帮助你少走一些弯路。
 
-## 作者
+## 目录
+### General
+1. [动态网站的架构]
 
-求是潮技术研发中心：
+### PHP
+1. [安装与配置](PHP/安装与配置.md)
+1. [快速入门](PHP/快速入门.md)
+1. [字符串操作与正则表达式](PHP/字符串操作与正则表达式.md)
+1. [代码重用与函数](PHP/代码重用与函数.md)
+1. [使用MySQL数据库](PHP/使用MySQL数据库.md)
 
-* <a href="https://github.com/Delostik" target="_blank">Delostik</a>
-* <a href="https://github.com/Hexcles" target="_blank">Hexcles</a>
-* <a href="https://github.com/Senorsen" target="_blank">Senorsen</a>
-
-## 授权协议
-
-[署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-SA 3.0 CN)](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
+### MySQL
+1. [简介与安装配置](MySQL/简介与安装配置.md)
 
 ## 链接
 
@@ -37,7 +39,7 @@ LAMP 指的是 Linux Apache MySQL PHP（原先是Perl，现在也有Python），
 
 PHP 作者所著的 _Programming PHP_ 也是一本不错的参考书，大部头，详细讲述了一些设计意图、历史原因，让你理解为何 PHP 会是现在这个样子，如果希望对 PHP 有更深入的理解，不妨一看。
 
-PHP 官方文档（注意，有些服务器上运行的是 PHP 5.3 ，与最新的 5.5 版有一些区别，写代码和部署时需要注意。
+PHP 官方文档（注意，有些服务器上运行的是 PHP 5.3 ，与最新的 5.5 版有一些区别，写代码和部署时需要注意）
 
 * [PHP Manual](http://www.php.net/manual/en/)
 
@@ -45,21 +47,16 @@ PHP 官方文档（注意，有些服务器上运行的是 PHP 5.3 ，与最新�
 
 * [PHP: a fractal of bad design](http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/)
 
-## 目录
+## 作者
+求是潮技术研发中心：
 
-### General
+* <a href="https://github.com/Delostik" target="_blank">Delostik</a>
+* <a href="https://github.com/Hexcles" target="_blank">Hexcles</a>
+* <a href="https://github.com/Senorsen" target="_blank">Senorsen</a>
 
-1. [动态网站的架构]
+## 授权协议
+[署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-SA 3.0 CN)](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
 
-### PHP
-
-1. [安装与配置](PHP/安装与配置.md)
-1. [快速入门](PHP/快速入门.md)
-1. [字符串操作与正则表达式](PHP/字符串操作与正则表达式.md)
-1. [代码重用与函数](PHP/代码重用与函数.md)
-1. [使用MySQL数据库](PHP/使用MySQL数据库.md)
-
-### MySQL
-
-1. [简介与安装配置](MySQL/简介与安装配置.md)
+## Contributing
+有任何意见和建议，请在 Issue 中提醒我们；如果想更改或添加页面，您可以考虑给我们发起一个 Pull Request ，我们将会检查并应用您的 PR 。
 
