@@ -19,7 +19,7 @@ LAMP 指的是 Linux Apache MySQL PHP（原先是Perl，现在也有Python），
 1. [动态网站的架构]
 
 ### PHP
-1. [安装与配置](PHP/安装与配置.md)
+1. [Windows下安装与配置](PHP/安装与配置.md)
 1. [快速入门](PHP/快速入门.md)
 1. [字符串操作与正则表达式](PHP/字符串操作与正则表达式.md)
 1. [代码重用与函数](PHP/代码重用与函数.md)
